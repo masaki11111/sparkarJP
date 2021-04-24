@@ -1,29 +1,16 @@
 # sparkarjp
 
-## Project setup
+## これは何？
 ```
-npm install
+これは日本人の方が作成されたインスタフィルターをまとめたサイトです。２０２１年４月時点で800フィルターまとめてあります。
+作成に至った理由はインスタグラムアプリで日本人の方のインスタフィルターが探しにくいなと思い、こういったアプリがあってもいいかなと考えたからです。
+日本人の方でどういった方がフィルターを作成されているのかみたいな〜と感じましたらこちらを使ってみてください。ちなみに、まだまだ作成段階で使えなかったりするかもしれませんがお許しください。。。
+
+https://sparkarjp.web.app/
+
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
